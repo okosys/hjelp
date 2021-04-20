@@ -47,9 +47,17 @@ Slik blir budsjettkontoene seende ut etter opprettelse av Forenklet-budsjettet:
 
 ### Fordele transaksjoner
 
+En liten stund etter at du har koblet til bankkontoene dine vil systemet ha lastet ned alle transaksjoner fra banken din, og i menyen vises et rødt tall over "Transaksjoner" som viser hvor mange transaksjoner du ikke har fordelt ennå.
+
+I Transaksjonsoversikten kan du velge transaksjoner på venstre side, ved å huke av i avkrysningsboksen for en transaksjon, og deretter på hvilken budsjettpost som den aktuelle transaksjonen skal føres mot. I bildet er transaksjonen fra Arbeidsgiver valgt, med en inntekt på 25000. Her er det naturlig å velge "Lønn".
+![Transaksjon lønn](/images/nybegynner/Transaksjon_Arbeidsgiver.png)
+
+Ved å velge at en av transaksjonene fra Rema 1000 skal føres på "Mat", vil systemet med jevne mellomrom sjekke om det er lignende transaksjoner, som også kan føres på Mat, og gi forslag på dette:
+![Transaksjon forslag](/images/nybegynner/Transaksjon_forslag.png)
+Her kan du trykke på den grønne knappen for å bekrefte at dette er riktig budsjettpost, eller rød for å si at det ikke er riktig.
 
 ### Se regnskapet
-
+TODO
 
 ### Se oversikten
-
+TODO
